@@ -1,0 +1,2 @@
+# Django_SKFactory_project
+SKFactory_project
